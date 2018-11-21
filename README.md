@@ -3,11 +3,10 @@
 
 # Usage
 ```java
-     <com.linxk.lib.MySlidingView
+    <com.linxk.lib.MySlidingView
         android:id="@+id/my_sliding_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
+        android:layout_height="match_parent">
         ...
     </com.linxk.lib.MySlidingView>
 ```
