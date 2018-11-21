@@ -17,7 +17,7 @@
             android:drawableLeft="@drawable/anim_sliding_tip"
             android:drawablePadding="5dp"
             android:gravity="center"
-            android:text="右滑退出"
+            android:text="右滑解锁"
             android:textSize="18sp"/>
     </com.linxk.lib.MySlidingView>
 </FrameLayout>

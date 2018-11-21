@@ -1,12 +1,12 @@
 # SlidingView
-右滑退出当前界面，继承自RelativeLayout
+右滑解锁，继承自RelativeLayout
 
-##使用
+# Usage
 ```java
 mySlidingView.setSlidingTipListener(new MySlidingView.SlidingTipListener() {
             @Override
             public void onSlidFinish() {
-                finish();
+                
             }
 });
 ```
