@@ -202,6 +202,7 @@ public class MySlidingView extends RelativeLayout {
             postInvalidate();
         } else if (mCloseFlag) {
             mSlidingTipListener.onSlidFinish();
+            mCloseFlag = false;
         }
     }
 
